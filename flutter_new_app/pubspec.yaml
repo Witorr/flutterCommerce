@@ -10,7 +10,7 @@ environment:
 
 #-------------- Packages ----------------#
 
-dependencies:
+dependencies: 
   flutter:
     sdk: flutter
 
